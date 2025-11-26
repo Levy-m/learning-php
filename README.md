@@ -55,7 +55,7 @@ This is a simple yet educational project that teaches the basics of PHP form han
 
 3. **Clone or Download the Project**
    ```bash
-   git clone https://github.com/yourusername/learning-php.git
+   git clone https://github.com/Levy-m/learning-php.git
    cd learning-php
    ```
 
